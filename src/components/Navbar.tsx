@@ -50,6 +50,7 @@ export default function Navbar() {
           ))}
           <a
             href="/Suraj-Prakash-Resume.pdf"
+            download="Suraj-Prakash-Resume.pdf"
             className="ml-3 flex items-center gap-1.5 rounded-lg bg-accent px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-accent-hover"
           >
             <FileDown size={16} />
@@ -82,6 +83,7 @@ export default function Navbar() {
           ))}
           <a
             href="/Suraj-Prakash-Resume.pdf"
+            download="Suraj-Prakash-Resume.pdf"
             className="mt-2 flex w-fit items-center gap-1.5 rounded-lg bg-accent px-4 py-2 text-sm font-medium text-white"
           >
             <FileDown size={16} />

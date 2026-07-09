@@ -93,6 +93,7 @@ export default function Hero() {
               </Link>
               <a
                 href="/Suraj-Prakash-Resume.pdf"
+                download="Suraj-Prakash-Resume.pdf"
                 className="flex items-center gap-2 rounded-lg border border-border bg-surface px-6 py-3 text-sm font-medium transition-colors hover:border-accent hover:text-accent"
               >
                 <FileDown size={16} />
