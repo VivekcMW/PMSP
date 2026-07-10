@@ -20,11 +20,11 @@ const jetbrains = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://surajprakash.vercel.app"),
   title: {
-    default: "Suraj Prakash — Senior Product Manager",
+    default: "Suraj Prakash — Product Manager",
     template: "%s — Suraj Prakash",
   },
   description:
-    "Senior Product Manager specializing in DOOH & programmatic ad tech, and AI-assisted 0→1 product development. I don't just write PRDs — I ship them.",
+    "Product Manager specializing in DOOH & programmatic ad tech, and AI-assisted 0→1 product development. I don't just write PRDs — I ship them.",
   keywords: [
     "Product Manager",
     "AI Product Development",
@@ -39,15 +39,15 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "/",
     siteName: "Suraj Prakash — Portfolio",
-    title: "Suraj Prakash — Senior Product Manager",
+    title: "Suraj Prakash — Product Manager",
     description:
-      "Senior PM · DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder. I don't just write PRDs — I ship them.",
+      "PM · DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder. I don't just write PRDs — I ship them.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Suraj Prakash — Senior Product Manager",
+    title: "Suraj Prakash — Product Manager",
     description:
-      "Senior PM · DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder. I don't just write PRDs — I ship them.",
+      "PM · DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder. I don't just write PRDs — I ship them.",
   },
   robots: { index: true, follow: true },
 };

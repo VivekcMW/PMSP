@@ -9,17 +9,17 @@ import {
 
 export const profile = {
   name: "Suraj Prakash",
-  title: "Senior Product Manager",
+  title: "Product Manager",
   tagline: "I don't just write PRDs. I ship them.",
   subtitle:
-    "Senior PM · DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder",
+    "PM · DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder",
   location: "Kuala Lumpur, Malaysia",
   email: "surajprakash251993@gmail.com",
   phoneMY: "+60-1112576896",
   phoneIN: "+91-8707366896",
   linkedin: "https://linkedin.com/in/suraj-prakash-8460bb147",
   summary:
-    "Senior Product Manager with 5+ years scaling B2B SaaS products across DOOH and programmatic ad tech, combined with hands-on experience independently designing, building, and shipping AI-powered production applications. I take products from requirement gathering through live deployment without dedicated engineering support — delivering measurable productivity gains and new revenue channels.",
+    "Product Manager with 5+ years scaling B2B SaaS products across DOOH and programmatic ad tech, combined with hands-on experience independently designing, building, and shipping AI-powered production applications. I take products from requirement gathering through live deployment without dedicated engineering support — delivering measurable productivity gains and new revenue channels.",
 };
 
 export const stats = [

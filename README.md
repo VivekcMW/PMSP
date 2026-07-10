@@ -1,6 +1,6 @@
 # Suraj Prakash — Product Manager Portfolio
 
-Personal portfolio for Suraj Prakash, Senior Product Manager (DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder).
+Personal portfolio for Suraj Prakash, Product Manager (DOOH & Programmatic Ad Tech · AI-Assisted 0→1 Builder).
 
 **Live pages:** Home · Work (+ case study deep dives) · Approach · About · Contact
 

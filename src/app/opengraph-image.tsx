@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Suraj Prakash — Senior Product Manager";
+export const alt = "Suraj Prakash — Product Manager";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -37,7 +37,7 @@ export default function OpenGraphImage() {
             SP
           </div>
           <div style={{ fontSize: 28, color: "#5b6b7f" }}>
-            Suraj Prakash · Senior Product Manager
+            Suraj Prakash · Product Manager
           </div>
         </div>
 
@@ -72,7 +72,7 @@ export default function OpenGraphImage() {
           }}
         >
           <div style={{ fontSize: 26, color: "#5b6b7f" }}>
-            Senior PM · DOOH &amp; Programmatic Ad Tech · AI-Assisted 0→1 Builder
+            PM · DOOH &amp; Programmatic Ad Tech · AI-Assisted 0→1 Builder
           </div>
           <div
             style={{

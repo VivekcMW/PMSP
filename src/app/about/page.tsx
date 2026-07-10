@@ -9,7 +9,7 @@ import { MapPin, Briefcase, Rocket } from "lucide-react";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Senior Product Manager with 5+ years scaling B2B SaaS across DOOH and programmatic ad tech.",
+    "Product Manager with 5+ years scaling B2B SaaS across DOOH and programmatic ad tech.",
 };
 
 const highlights = [
